@@ -76,7 +76,7 @@ public class PrinceKumarYadav {
 
 <p align="center">
   <a href="https://leetcode.com/u/princeyad590/" target="_blank">
-    <img width="49%" src="https://leetcard.jacoblin.cool/princeyad590?ext=heatmap&border_radius=12&theme=dark"/>
+    <img width="80%" src="https://leetcard.jacoblin.cool/princeyad590?ext=heatmap&border_radius=12&theme=dark"/>
   </a>
   <!-- <a href="https://leetcode.com/u/princeyad590/" target="_blank">
     <img width="49%" src="https://leetcode.card.workers.dev/?username=princeyad590&theme=dark&font=source_code_pro&extension=activity&border_radius=12"/>
