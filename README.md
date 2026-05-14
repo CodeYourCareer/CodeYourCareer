@@ -78,9 +78,9 @@ public class PrinceKumarYadav {
   <a href="https://leetcode.com/u/princeyad590/" target="_blank">
     <img width="49%" src="https://leetcard.jacoblin.cool/princeyad590?ext=heatmap&border_radius=12&theme=dark"/>
   </a>
-  <a href="https://leetcode.com/u/princeyad590/" target="_blank">
+  <!-- <a href="https://leetcode.com/u/princeyad590/" target="_blank">
     <img width="49%" src="https://leetcode.card.workers.dev/?username=princeyad590&theme=dark&font=source_code_pro&extension=activity&border_radius=12"/>
-  </a>
+  </a> -->
 </p>
 
 <details>
@@ -105,8 +105,8 @@ public class PrinceKumarYadav {
       <td><b>LeetCode</b></td>
       <td><a href="https://leetcode.com/u/princeyad590/">princeyad590</a></td>
       <td>1522 · Top 38%</td>
-      <td>100+ (69 Easy, 29 Med, 2 Hard)</td>
-      <td>237 submissions · Max streak 22 days</td>
+      <td>101+ (70 Easy, 29 Med, 2 Hard)</td>
+      <td>268 submissions · Max streak 23 days</td>
     </tr>
   </table>
 </details>
